@@ -1,2 +1,2 @@
-# C-plush-plush-assignment-solutions
+# C++-assignment-solutions
 This is c++ assignment solutions
